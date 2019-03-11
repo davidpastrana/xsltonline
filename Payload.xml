@@ -1,0 +1,40 @@
+<soapenv:Envelope
+	xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+	xmlns:u="http://www.service-now.com/u_inbound_incident">
+	<soapenv:Header/>
+	<soapenv:Body>
+		<u:insert>
+			<import_set_run></import_set_run>
+			<template_import_log></template_import_log>
+			<u_assigned_to></u_assigned_to>
+			<u_assignment_group>TESTGROUP01</u_assignment_group>
+			<u_business_service>Provider Test Service</u_business_service>
+			<u_caller_id>Provider Test Caller</u_caller_id>
+			<u_category></u_category>
+			<u_cause_category></u_cause_category>
+			<u_close_code>Solved test</u_close_code>
+			<u_close_notes></u_close_notes>
+			<u_cmdb_ci>Test CI</u_cmdb_ci>
+			<u_comments></u_comments>
+			<u_company>Provider IT</u_company>
+			<u_description>abc</u_description>
+			<u_external_ref>TESTINC0001</u_external_ref>
+			<u_impact>3</u_impact>
+			<u_location>Cisco Generic Default Location</u_location>
+			<u_number></u_number>
+			<u_phone_number></u_phone_number>
+			<u_priority>4</u_priority>
+			<u_provider>testid01</u_provider>
+			<u_requested_for></u_requested_for>
+			<u_service_offering>Provider Test Services</u_service_offering>
+			<u_short_description>Test from Customer to Provider</u_short_description>
+			<u_sn_sys_id></u_sn_sys_id>
+			<u_state>2</u_state>
+			<u_subcategory></u_subcategory>
+			<u_transaction_message></u_transaction_message>
+			<u_transaction_type></u_transaction_type>
+			<u_urgency>3</u_urgency>
+			<u_work_notes>new test note</u_work_notes>
+		</u:insert>
+	</soapenv:Body>
+</soapenv:Envelope>

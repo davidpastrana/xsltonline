@@ -1,0 +1,10 @@
+  <Calls.CustCallID>TESTINC0001</Calls.CustCallID>
+  <CallStates.ShortName>2</CallStates.ShortName>
+  <Priorities.ShortName>4</Priorities.ShortName>
+  <Calls.Caller.PIN/>
+  <Calls.MainComponent>Test CI</Calls.MainComponent>
+  <Calls.Remarks>new test note</Calls.Remarks>
+  <Calls.Description>abc</Calls.Description>
+  <Calls.ShortDescription>Test from Customer to Provider</Calls.ShortDescription>
+  <Calls.Solution/>
+</CALL>

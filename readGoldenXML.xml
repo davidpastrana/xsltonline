@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SD.call>
+	<objID>351803150</objID>
+	<ID>351803135</ID>
+	<CustCallID>TESTCUSTINC01</CustCallID>
+	<SPCallID>TESTPROVINC01</SPCallID>
+	<cel_objid>351052650</cel_objid>
+	<con_objid>351052275</con_objid>
+	<ccu_objid>351033512</ccu_objid>
+	<csp_objid>351052274</csp_objid>
+	<fro_objid>351033512</fro_objid>
+	<CallOpenTime>2018-06-12 12:31:36.0</CallOpenTime>
+	<CallOpenTimeUTC>2018-06-12 12:31:36.0</CallOpenTimeUTC>
+	<CallStartSLATime>2018-06-12 12:31:36.0</CallStartSLATime>
+	<CallStartSLATimeUTC>2018-06-12 12:31:36.0</CallStartSLATimeUTC>
+	<CallResponseTime />
+	<CallResponseTimeUTC />
+	<CallRecoveryTime />
+	<CallRecoveryTimeUTC />
+	<CallCloseTime />
+	<CallCloseTimeUTC />
+	<CallReceiveTime>2018-06-12 12:31:36.0</CallReceiveTime>
+	<CallReceiveTimeUTC>2018-06-12 12:31:36.0</CallReceiveTimeUTC>
+	<CallSendTime />
+	<CallSendTimeUTC />
+	<ProblemStartTime />
+	<ProblemStartTimeUTC />
+	<CustomerRequestedStartTime />
+	<CustomerRequestedStartTimeUTC />
+	<CustomerRequestedEndTime>2018-06-12 03:24:00.0</CustomerRequestedEndTime>
+	<CustomerRequestedEndTimeUTC>2018-06-12 03:24:00.0</CustomerRequestedEndTimeUTC>
+	<ProviderScheduledStartTime />
+	<ProviderScheduledStartTimeUTC />
+	<ProviderScheduledEndTime />
+	<ProviderScheduledEndTimeUTC />
+	<EndOfResponseTime />
+	<EndOfResponseTimeUTC />
+	<EndOfRecoveryTime />
+	<EndOfRecoveryTimeUTC />
+	<TotalHeldSLAMinutes />
+	<SLAHoldTime />
+	<SLAHoldTimeUTC />
+	<CallStateChangeTime>2018-06-12 12:31:36.0</CallStateChangeTime>
+	<CallStateChangeTimeUTC>2018-06-12 12:31:36.0</CallStateChangeTimeUTC>
+	<CallAcknowledgeTime />
+	<CallAcknowledgeTimeUTC />
+	<clr_objid />
+	<CallerShortName />
+	<CallerFirstName />
+	<CallerLastName />
+	<CallerTitle />
+	<CallerSalutation />
+	<CallerTel />
+	<CallerTel2 />
+	<CallerMobileTel />
+	<CallerFax />
+	<CallerLocationZip />
+	<CallerLocationCity />
+	<CallerLocationStreet />
+	<CallerLocationCountry />
+	<CallerLocation />
+	<CallerLocationProvince />
+	<CallerEMail />
+	<CallerPIN>testCallerId01</CallerPIN>
+	<CallerDescription>Customer</CallerDescription>
+	<CallerDepartment />
+	<CallerSign />
+	<CallerCategory />
+	<CallerLanguage />
+	<CallerRoom>4</CallerRoom>
+	<MainCompManfacturer />
+	<MainCompType />
+	<MainCompModel />
+	<MainComponent />
+	<MainCompShortName />
+	<MainCompName />
+	<MainCompSerNr />
+	<MainCompInvNr />
+	<MainCompSerNrProv />
+	<MainCompOpSys />
+	<MainCompLocationZip />
+	<MainCompLocationCity />
+	<MainCompLocationStreet />
+	<MainCompLocationCountry />
+	<MainCompLocation />
+	<MainCompLocationTel />
+	<MainCompDescription />
+	<MainCompLocationName />
+	<MainCompLocationDescription />
+	<MainCompLocationProvince />
+	<MainCompLocationCategory />
+	<MainCompLocationLevel />
+	<MainCompRoom>No</MainCompRoom>
+	<pro_objid>351037037</pro_objid>
+	<ppr_objid />
+	<pcu_objid>351052433</pcu_objid>
+	<psp_objid>351045609</psp_objid>
+	<sev_objid>351037017</sev_objid>
+	<pse_objid />
+	<fat_objid>351140480</fat_objid>
+	<pfa_objid />
+	<isClosed>N</isClosed>
+	<isHeldSLA>N</isHeldSLA>
+	<cst_objid>351033718</cst_objid>
+	<pst_objid>351045682</pst_objid>
+	<cac_objid />
+	<ema_objid>351803149</ema_objid>
+	<InternalState>00</InternalState>
+	<ShortDescription>test by davirod3</ShortDescription>
+	<Description />
+	<Remarks />
+	<Diagnosis />
+	<Solution />
+	<cso_objid />
+	<pso_objid />
+	<edi_objid>1000005000</edi_objid>
+	<EditTime>2018-06-12 12:36:09.0</EditTime>
+	<EditTimeUTC>2018-06-12 12:36:09.0</EditTimeUTC>
+	<csc_objid>351033521</csc_objid>
+	<css_objid>351036986</css_objid>
+	<SubCompManfacturer />
+	<SubCompType />
+	<SubCompModel />
+	<SubComponent />
+	<SubCompShortName />
+	<SubCompName />
+	<SubCompSerNr />
+	<SubCompInvNr />
+	<SubCompSerNrProv />
+	<SubCompOpSys />
+	<SubCompLocationZip />
+	<SubCompLocationCity />
+	<SubCompLocationStreet>1-Low</SubCompLocationStreet>
+	<SubCompLocationCountry />
+	<SubCompLocation />
+	<SubCompLocationTel />
+	<SubCompDescription />
+	<SubCompLocationName />
+	<SubCompLocationDescription />
+	<SubCompLocationProvince />
+	<SubCompLocationCategory />
+	<SubCompLocationLevel />
+	<SubCompRoom>-Blank-</SubCompRoom>
+	<SysSpecField1 />
+	<SysSpecField2 />
+	<SysSpecField3 />
+	<SysSpecField4 />
+	<SysSpecField5 />
+	<SysSpecField6 />
+	<SysSpecField7 />
+	<SysSpecField8 />
+	<SysSpecField9 />
+	<SysSpecField10 />
+	<XML_Info />
+	<XML_Info />
+	<chd_objid />
+	<phd_objid />
+	<CHDShortName />
+	<CHDFirstName />
+	<CHDLastName />
+	<CHDTitle />
+	<CHDSalutation />
+	<CHDTel />
+	<CHDTel2 />
+	<CHDMobileTel />
+	<CHDFax />
+	<CHDLocationZip />
+	<CHDLocationCity />
+	<CHDLocationStreet />
+	<CHDLocationCountry />
+	<CHDLocation />
+	<CHDLocationProvince />
+	<CHDEMail />
+	<CHDPIN />
+	<CHDDescription />
+	<CHDDepartment />
+	<CHDSign />
+	<CHDCategory />
+	<CHDLanguage />
+	<CHDRoom />
+	<CCPShortName />
+	<CCPFirstName />
+	<CCPLastName />
+	<CCPTitle />
+	<CCPSalutation />
+	<CCPTel />
+	<CCPTel2 />
+	<CCPMobileTel />
+	<CCPFax />
+	<CCPLocationZip />
+	<CCPLocationCity />
+	<CCPLocationStreet />
+	<CCPLocationCountry />
+	<CCPLocation />
+	<CCPLocationProvince />
+	<CCPEMail />
+	<CCPPIN />
+	<CCPDescription />
+	<CCPDepartment />
+	<CCPSign />
+	<CCPCategory />
+	<CCPLanguage />
+	<CCPRoom />
+	<bpr_objid>1000000101</bpr_objid>
+	<SlaResponseMinutes />
+	<SlaRecoveryMinutes />
+	<TotalResponseMinutes />
+	<TotalRecoveryMinutes />
+	<TotalAcknowledgeMinutes />
+	<Zone />
+	<unspsc />
+	<dev_objid />
+	<tzo_objid>1000040144</tzo_objid>
+	<isTestCall>N</isTestCall>
+	<que_objid />
+	<qu2_objid />
+	<qu3_objid />
+	<cqu_objid />
+	<cq2_objid />
+	<cq3_objid />
+	<tec_objid />
+	<te2_objid />
+	<te3_objid />
+	<cte_objid />
+	<ct2_objid />
+	<ct3_objid />
+	<cal_id />
+	<CCUCategory1 />
+	<CCUCategory2 />
+	<CCUCategory3 />
+	<CCUCategory4 />
+	<CCUCategory5 />
+	<CSPCategory1 />
+	<CSPCategory2 />
+	<CSPCategory3 />
+	<CSPCategory4 />
+	<CSPCategory5 />
+	<loc_objid />
+	<SlaCstRetentionMinutes />
+	<EndOfCstRetentionTime />
+	<EndOfCstRetentionTimeUTC />
+	<CallCstRetentionTime>2018-06-12 12:36:59.0</CallCstRetentionTime>
+	<CallCstRetentionTimeUTC>2018-06-12 12:36:59.0</CallCstRetentionTimeUTC>
+	<SlaPstRetentionMinutes />
+	<EndOfPstRetentionTime />
+	<EndOfPstRetentionTimeUTC />
+	<CallPstRetentionTime>2018-06-12 12:36:59.0</CallPstRetentionTime>
+	<CallPstRetentionTimeUTC>2018-06-12 12:36:59.0</CallPstRetentionTimeUTC>
+	<RetentionCstMinutesSL>1</RetentionCstMinutesSL>
+	<RetentionCstMinutes24>1</RetentionCstMinutes24>
+	<RetentionPstMinutesSL>1</RetentionPstMinutesSL>
+	<RetentionPstMinutes24>1</RetentionPstMinutes24>
+	<CutOffTime1 />
+	<CutOffTime2 />
+	<CutOffset />
+	<UseCutOffFlag>N</UseCutOffFlag>
+	<PreferCustRequEndTimeFlag>N</PreferCustRequEndTimeFlag>
+	<req_objid>1000235200</req_objid>
+	<IsLocked>N</IsLocked>
+	<lus_objid />
+	<LockedTime />
+	<LockedTimeUTC />
+	<SendWhenUpdate>Y</SendWhenUpdate>
+	<SendWhenSelectTechnician>N</SendWhenSelectTechnician>
+	<SendWhenSelectTechnician2>N</SendWhenSelectTechnician2>
+	<SendWhenSelectTechnician3>N</SendWhenSelectTechnician3>
+	<SendWhenSelectQueue>N</SendWhenSelectQueue>
+	<SendWhenSelectQueue2>N</SendWhenSelectQueue2>
+	<SendWhenSelectQueue3>N</SendWhenSelectQueue3>
+	<cex_objid />
+	<pex_objid />
+	<CCUMaxLevel>1</CCUMaxLevel>
+	<CSPMaxLevel>1</CSPMaxLevel>
+	<MainCompLocationGroup />
+	<IsDoneChild>N</IsDoneChild>
+	<IsUpdatedByChildren>N</IsUpdatedByChildren>
+	<EndOfRecoveryAlertTime1 />
+	<EndOfRecoveryAlertTime1UTC />
+	<EndOfRecoveryAlertTime2 />
+	<EndOfRecoveryAlertTime2UTC />
+	<SubCompLocationGroup />
+	<IsUpdatedByParent>N</IsUpdatedByParent>
+	<CCUReasonCategory1 />
+	<CCUReasonCategory2 />
+	<CCUReasonCategory3 />
+	<CCUReasonCategory4 />
+	<CCUReasonCategory5 />
+	<CSPReasonCategory1 />
+	<CSPReasonCategory2 />
+	<CSPReasonCategory3 />
+	<CSPReasonCategory4 />
+	<CSPReasonCategory5 />
+	<dst_objid />
+	<MainCompLocationRegion />
+	<MainCompHostname />
+	<MainCompIPAddress />
+	<MainCompMACAddress />
+	<SubCompLocationRegion />
+	<SubCompHostname />
+	<SubCompIPAddress />
+	<SubCompMACAddress />
+	<IsAvailabilityCall>N</IsAvailabilityCall>
+	<AddRemarksToSummary>N</AddRemarksToSummary>
+	<NumberOfEditors>2</NumberOfEditors>
+	<cim_objid>351037008</cim_objid>
+	<pim_objid />
+	<cur_objid>351036998</cur_objid>
+	<pur_objid />
+	<ccp_objid />
+	<SendWhenRemoveTechnician>N</SendWhenRemoveTechnician>
+	<SendWhenRemoveTechnician2>N</SendWhenRemoveTechnician2>
+	<SendWhenRemoveTechnician3>N</SendWhenRemoveTechnician3>
+	<app_objid />
+	<anonymizeData />
+	<InMessageReceivedTimeUtc>2018-06-12 12:36:09.0</InMessageReceivedTimeUtc>
+	<OutMessageQueuedTimeUtc>2018-06-12 12:36:09.0</OutMessageQueuedTimeUtc>
+	<OutMessageSentTimeUtc>2018-06-12 12:36:09.0</OutMessageSentTimeUtc>
+	<SgInternalProcessingMsecs>796</SgInternalProcessingMsecs>
+	<SgExternalProcessingMsecs>927</SgExternalProcessingMsecs>
+	<obm_objid>351803151</obm_objid>
+	<Ownership />
+	<PartnerCoreTicketId />
+	<inr_objid>1000000102</inr_objid>
+	<BPOrganizationsCUS>
+		<objID>351033512</objID>
+		<ID>351033512</ID>
+		<ShortName>Customer_INC</ShortName>
+		<Name>Customer_INC</Name>
+		<AccountCode />
+		<ActivityLimitMonthday />
+		<ActivityLimitMonthdayTime />
+		<ActivityLimitWeekday />
+		<ActivityLimitWeekdayTime />
+		<bpa_objid>351033506</bpa_objid>
+		<bpp_objid>350683943</bpp_objid>
+		<bpr_objid>1000000101</bpr_objid>
+		<Category />
+		<City>Worldwide</City>
+		<cou_objid>27087</cou_objid>
+		<csy_objid>351033521</csy_objid>
+		<DateFormat />
+		<DUNS />
+		<edi_objid>350683943</edi_objid>
+		<EditTimeUTC>2017-09-25 12:49:52.0</EditTimeUTC>
+		<EMail />
+		<EMFromAddress />
+		<etv_objid />
+		<Fax />
+		<InboxMailAdress />
+		<IsActiv>Y</IsActiv>
+		<Latitude />
+		<Location />
+		<Longitude />
+		<MailSubject />
+		<Province />
+		<qlu_objid />
+		<Reliability />
+		<ReplyToAddress />
+		<rsp_objid />
+		<Street>Chūō, Tokyo, Japan</Street>
+		<Tel>0000000</Tel>
+		<tzo_objid>1000040144</tzo_objid>
+		<UID />
+		<Url />
+		<UrlName />
+		<Zip>1234</Zip>
+		<Countries>
+			<objID>27087</objID>
+			<ID>27087</ID>
+			<ShortName>AT</ShortName>
+			<Name>AUSTRIA</Name>
+			<Description>Republik Österreich</Description>
+			<IsActiv>Y</IsActiv>
+			<ISOCode>AT</ISOCode>
+		</Countries>
+	</BPOrganizationsCUS>
+	<BPOrganizationsSPR>
+		<objID>351052274</objID>
+		<ID>351052274</ID>
+		<ShortName>ProvPlatform_INC_Customer</ShortName>
+		<Name>Provider platform Customer INC Management</Name>
+		<AccountCode />
+		<ActivityLimitMonthday />
+		<ActivityLimitMonthdayTime />
+		<ActivityLimitWeekday />
+		<ActivityLimitWeekdayTime />
+		<bpa_objid>333697404</bpa_objid>
+		<bpp_objid>350683943</bpp_objid>
+		<bpr_objid />
+		<Category />
+		<City>Atlanta</City>
+		<cou_objid>27298</cou_objid>
+		<csy_objid>351036986</csy_objid>
+		<DateFormat />
+		<DUNS />
+		<edi_objid>350683943</edi_objid>
+		<EditTimeUTC>2017-09-25 15:20:14.0</EditTimeUTC>
+		<EMail />
+		<EMFromAddress />
+		<etv_objid />
+		<Fax />
+		<InboxMailAdress />
+		<IsActiv>Y</IsActiv>
+		<Latitude />
+		<Location />
+		<Longitude />
+		<MailSubject />
+		<Province />
+		<qlu_objid />
+		<Reliability />
+		<ReplyToAddress />
+		<rsp_objid />
+		<Street>1</Street>
+		<Tel>1</Tel>
+		<tzo_objid>1000040050</tzo_objid>
+		<UID />
+		<Url />
+		<UrlName />
+		<Zip>1</Zip>
+		<Countries>
+			<objID>27298</objID>
+			<ID>27298</ID>
+			<ShortName>US</ShortName>
+			<Name>USA</Name>
+			<Description>United States of America</Description>
+			<IsActiv>Y</IsActiv>
+			<ISOCode>US</ISOCode>
+		</Countries>
+	</BPOrganizationsSPR>
+	<BPOrganizationsFRO>
+		<objID>351033512</objID>
+		<ID>351033512</ID>
+		<ShortName>Customer_INC</ShortName>
+		<Name>Customer_INC</Name>
+		<AccountCode />
+		<ActivityLimitMonthday />
+		<ActivityLimitMonthdayTime />
+		<ActivityLimitWeekday />
+		<ActivityLimitWeekdayTime />
+		<bpa_objid>351033506</bpa_objid>
+		<bpp_objid>350683943</bpp_objid>
+		<bpr_objid>1000000101</bpr_objid>
+		<Category />
+		<City>Worldwide</City>
+		<cou_objid>27087</cou_objid>
+		<csy_objid>351033521</csy_objid>
+		<DateFormat />
+		<DUNS />
+		<edi_objid>350683943</edi_objid>
+		<EditTimeUTC>2017-09-25 12:49:52.0</EditTimeUTC>
+		<EMail />
+		<EMFromAddress />
+		<etv_objid />
+		<Fax />
+		<InboxMailAdress />
+		<IsActiv>Y</IsActiv>
+		<Latitude />
+		<Location />
+		<Longitude />
+		<MailSubject />
+		<Province />
+		<qlu_objid />
+		<Reliability />
+		<ReplyToAddress />
+		<rsp_objid />
+		<Street>Chūō, Tokyo, Japan</Street>
+		<Tel>0000000</Tel>
+		<tzo_objid>1000040144</tzo_objid>
+		<UID />
+		<Url />
+		<UrlName />
+		<Zip>1234</Zip>
+	</BPOrganizationsFRO>
+	<CallSystemsCSC>
+		<objID>351033521</objID>
+		<ID>351033521</ID>
+		<ShortName>Customer_INC_CS</ShortName>
+		<Name>Customer_Incident_CallSystem</Name>
+		<AskAtCloseCall>Y</AskAtCloseCall>
+		<AttachmentFormat>FilenameOnly</AttachmentFormat>
+		<EnabledForWorkflowSelection>Y</EnabledForWorkflowSelection>
+		<IsGlobal>N</IsGlobal>
+		<PreventCallActionIfDifferentLevel>N</PreventCallActionIfDifferentLevel>
+		<SelectOnlyTechniciansFromQueue>N</SelectOnlyTechniciansFromQueue>
+		<UseActions>N</UseActions>
+		<UseSuccessors>N</UseSuccessors>
+	</CallSystemsCSC>
+	<CallSystemsCSS>
+		<objID>351036986</objID>
+		<ID>351036986</ID>
+		<ShortName>ProvPlatform_INC_Customer</ShortName>
+		<Name>ProvPlatform_INC_Customer</Name>
+		<AskAtCloseCall>Y</AskAtCloseCall>
+		<AttachmentFormat>FilenameOnly</AttachmentFormat>
+		<EnabledForWorkflowSelection>Y</EnabledForWorkflowSelection>
+		<IsGlobal>N</IsGlobal>
+		<PreventCallActionIfDifferentLevel>N</PreventCallActionIfDifferentLevel>
+		<SelectOnlyTechniciansFromQueue>N</SelectOnlyTechniciansFromQueue>
+		<UseActions>N</UseActions>
+		<UseSuccessors>N</UseSuccessors>
+	</CallSystemsCSS>
+	<CallStatesCUS>
+		<objID>351033718</objID>
+		<ID>351033718</ID>
+		<ShortName>1</ShortName>
+		<Name>New</Name>
+		<SeqNr>10</SeqNr>
+		<CanContinueSLAFlag>N</CanContinueSLAFlag>
+		<CanHoldSLAFlag>N</CanHoldSLAFlag>
+		<CanStartFlag>Y</CanStartFlag>
+		<CanStopFlag>N</CanStopFlag>
+		<cog_objid />
+		<ColorCode />
+		<csy_objid>351033521</csy_objid>
+		<IconName />
+		<IsActivInEditForms>Y</IsActivInEditForms>
+		<IsActivInLists>Y</IsActivInLists>
+		<IsBusy>N</IsBusy>
+		<Level>1</Level>
+		<RetentionTime />
+		<SetAcknowledgeCode>N</SetAcknowledgeCode>
+		<SetCloseCode>N</SetCloseCode>
+		<SetOpenCode>Y</SetOpenCode>
+		<SetRecoveryCode>N</SetRecoveryCode>
+		<SetResponseCode>N</SetResponseCode>
+		<SetStartSLACode>N</SetStartSLACode>
+		<SetWhenAppointmentCreatedFlag>N</SetWhenAppointmentCreatedFlag>
+		<SetWhenAppointmentRemovedFlag>N</SetWhenAppointmentRemovedFlag>
+		<SetWhenTechnicianAssignedFlag>N</SetWhenTechnicianAssignedFlag>
+		<sup_objid />
+		<UseForCallListFunctionUpdate>N</UseForCallListFunctionUpdate>
+	</CallStatesCUS>
+	<CallStatesSPR>
+		<objID>351045682</objID>
+		<ID>351045682</ID>
+		<ShortName>100</ShortName>
+		<Name>New</Name>
+		<SeqNr>10</SeqNr>
+		<CanContinueSLAFlag>Y</CanContinueSLAFlag>
+		<CanHoldSLAFlag>N</CanHoldSLAFlag>
+		<CanStartFlag>Y</CanStartFlag>
+		<CanStopFlag>N</CanStopFlag>
+		<cog_objid />
+		<ColorCode />
+		<csy_objid>351036986</csy_objid>
+		<IconName />
+		<IsActivInEditForms>Y</IsActivInEditForms>
+		<IsActivInLists>Y</IsActivInLists>
+		<IsBusy>N</IsBusy>
+		<Level>1</Level>
+		<RetentionTime />
+		<SetAcknowledgeCode>N</SetAcknowledgeCode>
+		<SetCloseCode>N</SetCloseCode>
+		<SetOpenCode>Y</SetOpenCode>
+		<SetRecoveryCode>N</SetRecoveryCode>
+		<SetResponseCode>N</SetResponseCode>
+		<SetStartSLACode>Y</SetStartSLACode>
+		<SetWhenAppointmentCreatedFlag>N</SetWhenAppointmentCreatedFlag>
+		<SetWhenAppointmentRemovedFlag>N</SetWhenAppointmentRemovedFlag>
+		<SetWhenTechnicianAssignedFlag>N</SetWhenTechnicianAssignedFlag>
+		<sup_objid />
+		<UseForCallListFunctionUpdate>N</UseForCallListFunctionUpdate>
+	</CallStatesSPR>
+	<ProblemTypesPRO>
+		<objID>351037037</objID>
+		<ID>351037037</ID>
+		<ShortName>Alert/Alarm</ShortName>
+		<Name>Alert/Alarm</Name>
+		<SeqNr>1</SeqNr>
+		<cog_objid />
+		<csy_objid>351033521</csy_objid>
+		<IsActivInEditForms>Y</IsActivInEditForms>
+		<IsActivInLists>Y</IsActivInLists>
+	</ProblemTypesPRO>
+	<PrioritiesPCU>
+		<objID>351052433</objID>
+		<ID>351052433</ID>
+		<ShortName>3</ShortName>
+		<Name>3 - Moderate</Name>
+		<SeqNr>10</SeqNr>
+		<cog_objid />
+		<csy_objid>351033521</csy_objid>
+		<IconName />
+		<IsActivInEditForms>Y</IsActivInEditForms>
+		<IsActivInLists>Y</IsActivInLists>
+	</PrioritiesPCU>
+	<PrioritiesPSP>
+		<objID>351045609</objID>
+		<ID>351045609</ID>
+		<ShortName>P3</ShortName>
+		<Name>Minor</Name>
+		<SeqNr>20</SeqNr>
+		<cog_objid />
+		<csy_objid>351036986</csy_objid>
+		<IconName>images/icons/2bar_red.gif</IconName>
+		<IsActivInEditForms>Y</IsActivInEditForms>
+		<IsActivInLists>Y</IsActivInLists>
+	</PrioritiesPSP>
+	<SeveritiesSEV>
+		<objID>351037017</objID>
+		<ID>351037017</ID>
+		<ShortName>1</ShortName>
+		<Name>Critical</Name>
+		<SeqNr>10</SeqNr>
+		<cog_objid />
+		<csy_objid>351033521</csy_objid>
+		<IsActivInEditForms>Y</IsActivInEditForms>
+		<IsActivInLists>Y</IsActivInLists>
+	</SeveritiesSEV>
+	<FailureTypesFAT>
+		<objID>351140480</objID>
+		<ID>351140480</ID>
+		<ShortName>Web</ShortName>
+		<Name>Web</Name>
+		<SeqNr>10</SeqNr>
+		<cog_objid />
+		<csy_objid>351033521</csy_objid>
+		<IsActivInEditForms>Y</IsActivInEditForms>
+		<IsActivInLists>Y</IsActivInLists>
+	</FailureTypesFAT>
+	<BPPersonsEDI>
+		<objID>1000005000</objID>
+		<ID>5000</ID>
+		<ShortName>P2</ShortName>
+		<ala_objid>1000000814</ala_objid>
+		<bpa_objid>1000002999</bpa_objid>
+		<bpp_objid />
+		<bpr_objid />
+		<City />
+		<Comment1 />
+		<Comment2 />
+		<Comment3 />
+		<Comment4 />
+		<Comment5 />
+		<CostCentre />
+		<cou_objid />
+		<CreationTimeUTC />
+		<CSSFileName />
+		<DeactivationTimeUTC />
+		<defaultRoleUid />
+		<Department />
+		<Description />
+		<DisplayInfoTicker>N</DisplayInfoTicker>
+		<edi_objid>1000005003</edi_objid>
+		<EditTimeUTC>2006-10-08 08:36:36.0</EditTimeUTC>
+		<EMail />
+		<etv_objid />
+		<Fax />
+		<FirstLoginTimeUTC />
+		<FirstName>Inbound</FirstName>
+		<HourlyCost />
+		<IsActiv>Y</IsActiv>
+		<IsBridgeBuilder>N</IsBridgeBuilder>
+		<IsDeactivationByUploadAllowed>N</IsDeactivationByUploadAllowed>
+		<IsLicenseUser>Y</IsLicenseUser>
+		<IsUnsubscribeFromSurveys>N</IsUnsubscribeFromSurveys>
+		<IsVisibleForPartner>N</IsVisibleForPartner>
+		<IsWorkflowBuilder>N</IsWorkflowBuilder>
+		<LastLoginTimeUTC />
+		<LastName>Converter</LastName>
+		<LastPasswordChange>2004-09-26 08:28:05.0</LastPasswordChange>
+		<Latitude />
+		<loc_objid />
+		<Location />
+		<loginas_sup_objid />
+		<LoginName>P2</LoginName>
+		<Longitude />
+		<los_objid />
+		<MaxSizeOfInboundMessage />
+		<MobileTel />
+		<MustChangePasswordOnNextLogin>N</MustChangePasswordOnNextLogin>
+		<Notes />
+		<NrOfFalsePWAttempts />
+		<pgr_objid>63400111</pgr_objid>
+		<PIN />
+		<Province />
+		<QuickLogNumberValidityMinutes />
+		<Room />
+		<Salutation />
+		<SendUserNotesFlag>N</SendUserNotesFlag>
+		<ShowNotes />
+		<Sign />
+		<SkypeName />
+		<SpecialLoginMethod />
+		<Street />
+		<Tel />
+		<Tel2 />
+		<Title />
+		<tzo_objid>1000040000</tzo_objid>
+		<UID />
+		<ula_objid>1000000820</ula_objid>
+		<UpDownloadEncoding>ISO-8859-1</UpDownloadEncoding>
+		<UserCategory />
+		<UseStdReportCallListSetups>Y</UseStdReportCallListSetups>
+		<Zip />
+	</BPPersonsEDI>
+	<ContractElements>
+		<objID>351052650</objID>
+		<ID>351052650</ID>
+		<ShortName>Customer-INC</ShortName>
+		<Name>Customer-INC</Name>
+		<ContractIDProv />
+		<ContractIDCust />
+		<con_objid>351052275</con_objid>
+		<ValidFrom />
+		<ValidUntil />
+		<Description />
+		<scp_objid />
+		<spp_objid />
+		<CompManfacturer />
+		<CompType />
+		<CompModel />
+		<Component />
+		<CompSerNr />
+		<CompInvNr />
+		<CompOpSys />
+		<CompLocationZip />
+		<CompLocationCity />
+		<CompLocationStreet />
+		<CompLocation />
+		<CompLocationTel />
+		<CompDescription />
+		<CompLocationName />
+		<CompLocationCou_objid />
+		<ResponseTime>0</ResponseTime>
+		<RecoveryTime>0</RecoveryTime>
+		<SendMailToSPFlag>Y</SendMailToSPFlag>
+		<SendMailToCustFlag>Y</SendMailToCustFlag>
+		<IsDefaultFlag>N</IsDefaultFlag>
+		<IsActiv>Y</IsActiv>
+		<ser_objid />
+		<RecoveryAlertMinutes1>0</RecoveryAlertMinutes1>
+		<RecoveryAlertMinutes2>0</RecoveryAlertMinutes2>
+		<CutOffTime1 />
+		<CutOffTime2 />
+		<CutOffSet />
+		<UseCutOffFlag>N</UseCutOffFlag>
+		<PreferCustRequEndTimeFlag>N</PreferCustRequEndTimeFlag>
+		<cqu_objid />
+		<cq2_objid />
+		<cq3_objid />
+		<que_objid />
+		<qu2_objid />
+		<qu3_objid />
+		<CCUCategory1 />
+		<CCUCategory2 />
+		<CCUCategory3 />
+		<CCUCategory4 />
+		<CCUCategory5 />
+		<CSPCategory1 />
+		<CSPCategory2 />
+		<CSPCategory3 />
+		<CSPCategory4 />
+		<CSPCategory5 />
+		<pcu_objid />
+		<psp_objid />
+		<sev_objid />
+		<pse_objid />
+		<pro_objid />
+		<ppr_objid />
+		<fat_objid />
+		<pfa_objid />
+		<req_objid>1000235200</req_objid>
+		<CompShortName />
+		<CompName />
+		<CompSerNrProv />
+		<CompLocationDescription />
+		<CompLocationProvince />
+		<CompLocationCategory />
+		<CompRoom />
+		<DefaultShortDescription />
+		<DefaultDescription />
+		<DefaultRemarks />
+		<DefaultDiagnosis />
+		<DefaultSolution />
+		<edi_objid>350683943</edi_objid>
+		<EditTimeUTC>2017-09-26 09:50:04.0</EditTimeUTC>
+		<esc_objid />
+		<esp_objid />
+		<URL />
+		<cst_objid />
+		<pst_objid />
+		<cel_objid />
+		<bpa_objid />
+		<IsSelectableForCustomer>Y</IsSelectableForCustomer>
+		<IsSelectableForProvider>Y</IsSelectableForProvider>
+		<CopyCategoriesCommitedCust>N</CopyCategoriesCommitedCust>
+		<CopyCategoriesCommitedProv>N</CopyCategoriesCommitedProv>
+		<stp_objid />
+		<IsDeactivationByUploadAllowed>N</IsDeactivationByUploadAllowed>
+		<CopyNewSolutionsToCustomer>N</CopyNewSolutionsToCustomer>
+		<CopyNewSolutionsToProvider>N</CopyNewSolutionsToProvider>
+		<UsePrioritiesOfSLAExtensions>N</UsePrioritiesOfSLAExtensions>
+		<Name1 />
+		<Name2 />
+		<Name3 />
+		<Name4 />
+		<Name5 />
+		<URLName />
+		<mgc_objid />
+		<mgp_objid />
+		<cim_objid />
+		<pim_objid />
+		<cur_objid />
+		<pur_objid />
+		<UsesPrioritySLAExtensions>N</UsesPrioritySLAExtensions>
+		<UsesServiceTimeSLAExtensions>N</UsesServiceTimeSLAExtensions>
+		<UsesLocationSLAExtensions>N</UsesLocationSLAExtensions>
+		<CustomerBackgroundColor />
+		<CustomerFontColor />
+		<ProviderBackgroundColor />
+		<ProviderFontColor />
+		<csu_objid />
+		<psu_objid />
+	</ContractElements>
+	<Contracts>
+		<objID>351052275</objID>
+		<ID>351052275</ID>
+		<ShortName>Customer-INC</ShortName>
+		<Name>Customer-INC</Name>
+		<ValidFrom />
+		<ValidUntil />
+		<IsInventoryFlag>N</IsInventoryFlag>
+		<PartInBenchFlag>N</PartInBenchFlag>
+		<ccu_objid>351033512</ccu_objid>
+		<ProvIDCust />
+		<ProvNameCust />
+		<ProvOrgIDCust />
+		<ProvOrgNameCust />
+		<CategoryCust />
+		<ContractIDCust />
+		<SendMailToCustDefaultFlag>Y</SendMailToCustDefaultFlag>
+		<csp_objid>351052274</csp_objid>
+		<CustIDProv />
+		<CustNameProv />
+		<CustOrgIDProv />
+		<CustOrgNameProv />
+		<CategoryProv />
+		<ContractIDProv />
+		<SendMailToSPDefaultFlag>Y</SendMailToSPDefaultFlag>
+		<scp_objid />
+		<spp_objid />
+		<URL />
+		<IsActiv>Y</IsActiv>
+		<EditTimeUTC>2017-09-25 12:51:14.0</EditTimeUTC>
+		<edi_objid>350683943</edi_objid>
+		<esc_objid />
+		<esp_objid />
+		<URLName />
+		<mgc_objid />
+		<mgp_objid />
+		<CustomerBackgroundColor />
+		<CustomerFontColor />
+		<ProviderBackgroundColor />
+		<ProviderFontColor />
+	</Contracts>
+	<BPRoles>
+		<objID>1000000101</objID>
+		<ID>1</ID>
+		<ShortName>SC</ShortName>
+		<Name>Service Customer</Name>
+	</BPRoles>
+	<BPRolesINI>
+		<objID>1000000102</objID>
+		<ID>2</ID>
+		<ShortName>SP</ShortName>
+		<Name>Service Provider</Name>
+	</BPRolesINI>
+	<TimeZones>
+		<objID>1000040144</objID>
+		<ID>40144</ID>
+		<ShortName>CET</ShortName>
+		<Name>Central European Time</Name>
+		<TZID>Europe/Amsterdam</TZID>
+		<UTCRawOffset>60</UTCRawOffset>
+	</TimeZones>
+	<RequestTypes>
+		<objID>1000235200</objID>
+		<ID>1000235200</ID>
+		<ShortName>INC</ShortName>
+		<Name>Incident</Name>
+		<SeqNr>10</SeqNr>
+	</RequestTypes>
+	<ImpactsCUS>
+		<objID>351037008</objID>
+		<ID>351037008</ID>
+		<ShortName>1</ShortName>
+		<Name>High</Name>
+		<SeqNr>0</SeqNr>
+		<cog_objid />
+		<csy_objid>351033521</csy_objid>
+		<IsActivInEditForms>Y</IsActivInEditForms>
+		<IsActivInLists>Y</IsActivInLists>
+	</ImpactsCUS>
+	<UrgencyCUS>
+		<objID>351036998</objID>
+		<ID>351036998</ID>
+		<ShortName>1</ShortName>
+		<Name>High</Name>
+		<SeqNr>10</SeqNr>
+		<cog_objid />
+		<csy_objid>351033521</csy_objid>
+		<IsActivInEditForms>Y</IsActivInEditForms>
+		<IsActivInLists>Y</IsActivInLists>
+	</UrgencyCUS>
+	<PrioritiesTO>
+		<objID>351052433</objID>
+		<ID>351052433</ID>
+		<ShortName>3</ShortName>
+		<Name>3 - Moderate</Name>
+		<SeqNr>10</SeqNr>
+		<cog_objid />
+		<csy_objid>351033521</csy_objid>
+		<IconName />
+		<IsActivInEditForms>Y</IsActivInEditForms>
+		<IsActivInLists>Y</IsActivInLists>
+	</PrioritiesTO>
+	<FailureTypes>
+		<objID>351140480</objID>
+		<ID>351140480</ID>
+		<ShortName>Web</ShortName>
+		<Name>Web</Name>
+		<SeqNr>10</SeqNr>
+		<cog_objid />
+		<csy_objid>351033521</csy_objid>
+		<IsActivInEditForms>Y</IsActivInEditForms>
+		<IsActivInLists>Y</IsActivInLists>
+	</FailureTypes>
+	<ProblemTypes>
+		<objID>351037037</objID>
+		<ID>351037037</ID>
+		<ShortName>Alert/Alarm</ShortName>
+		<Name>Alert/Alarm</Name>
+		<SeqNr>1</SeqNr>
+		<cog_objid />
+		<csy_objid>351033521</csy_objid>
+		<IsActivInEditForms>Y</IsActivInEditForms>
+		<IsActivInLists>Y</IsActivInLists>
+	</ProblemTypes>
+	<Severities>
+		<objID>351037017</objID>
+		<ID>351037017</ID>
+		<ShortName>1</ShortName>
+		<Name>Critical</Name>
+		<SeqNr>10</SeqNr>
+		<cog_objid />
+		<csy_objid>351033521</csy_objid>
+		<IsActivInEditForms>Y</IsActivInEditForms>
+		<IsActivInLists>Y</IsActivInLists>
+	</Severities>
+	<CallStates>
+		<objID>351033718</objID>
+		<ID>351033718</ID>
+		<ShortName>1</ShortName>
+		<Name>New</Name>
+		<SeqNr>10</SeqNr>
+		<CanContinueSLAFlag>N</CanContinueSLAFlag>
+		<CanHoldSLAFlag>N</CanHoldSLAFlag>
+		<CanStartFlag>Y</CanStartFlag>
+		<CanStopFlag>N</CanStopFlag>
+		<cog_objid />
+		<ColorCode />
+		<csy_objid>351033521</csy_objid>
+		<IconName />
+		<IsActivInEditForms>Y</IsActivInEditForms>
+		<IsActivInLists>Y</IsActivInLists>
+		<IsBusy>N</IsBusy>
+		<Level>1</Level>
+		<RetentionTime />
+		<SetAcknowledgeCode>N</SetAcknowledgeCode>
+		<SetCloseCode>N</SetCloseCode>
+		<SetOpenCode>Y</SetOpenCode>
+		<SetRecoveryCode>N</SetRecoveryCode>
+		<SetResponseCode>N</SetResponseCode>
+		<SetStartSLACode>N</SetStartSLACode>
+		<SetWhenAppointmentCreatedFlag>N</SetWhenAppointmentCreatedFlag>
+		<SetWhenAppointmentRemovedFlag>N</SetWhenAppointmentRemovedFlag>
+		<SetWhenTechnicianAssignedFlag>N</SetWhenTechnicianAssignedFlag>
+		<sup_objid />
+		<UseForCallListFunctionUpdate>N</UseForCallListFunctionUpdate>
+	</CallStates>
+	<BPartnersCUS>
+		<objID>351033506</objID>
+		<ID>351033506</ID>
+		<ShortName>Customer</ShortName>
+		<Name>Customer</Name>
+		<AccountCode />
+		<ActiveSlaProfileId />
+		<BusinessYearStartMonth />
+		<Category />
+		<CheckLoginNameNotPartOfPassword>Y</CheckLoginNameNotPartOfPassword>
+		<City>Worldwide</City>
+		<cou_objid>27087</cou_objid>
+		<DisableMinPasswordChangeIntervalHoursFlag>N</DisableMinPasswordChangeIntervalHoursFlag>
+		<DisablePasswordHistoryLengthFlag>N</DisablePasswordHistoryLengthFlag>
+		<DUNS />
+		<edi_objid>350683943</edi_objid>
+		<EditTimeUTC>2017-09-21 14:59:17.0</EditTimeUTC>
+		<EMail />
+		<Fax />
+		<ImprintURL />
+		<ImprintURLName />
+		<IsActiv>Y</IsActiv>
+		<Latitude />
+		<Location />
+		<LogoData />
+		<LogoFilename />
+		<Longitude />
+		<MaxPasswordLength />
+		<MaxWrongPasswordAttempts>6</MaxWrongPasswordAttempts>
+		<Memo />
+		<MinPasswordChangeIntervalHours />
+		<MinPasswordLength>6</MinPasswordLength>
+		<MustUseCapitalFlag>Y</MustUseCapitalFlag>
+		<MustUseDigitFlag>Y</MustUseDigitFlag>
+		<PasswordDurationDays>90</PasswordDurationDays>
+		<PasswordHistoryLength>3</PasswordHistoryLength>
+		<Province />
+		<sdl_objid>181195494</sdl_objid>
+		<Street>Chūō, Tokyo, Japan</Street>
+		<Tel>0000000</Tel>
+		<tzo_objid>1000040144</tzo_objid>
+		<UID />
+		<URL />
+		<URLName />
+		<UserMayResetPassword>Y</UserMayResetPassword>
+		<Zip>1234</Zip>
+	</BPartnersCUS>
+	<BPartnersSPR>
+		<objID>333697404</objID>
+		<ID>333697404</ID>
+		<ShortName>ProviderProvPlatform</ShortName>
+		<Name>Provider platform</Name>
+		<AccountCode />
+		<ActiveSlaProfileId />
+		<BusinessYearStartMonth>1</BusinessYearStartMonth>
+		<Category />
+		<CheckLoginNameNotPartOfPassword>N</CheckLoginNameNotPartOfPassword>
+		<City>Atlanta</City>
+		<cou_objid>27298</cou_objid>
+		<DisableMinPasswordChangeIntervalHoursFlag>N</DisableMinPasswordChangeIntervalHoursFlag>
+		<DisablePasswordHistoryLengthFlag>N</DisablePasswordHistoryLengthFlag>
+		<DUNS />
+		<edi_objid>228905749</edi_objid>
+		<EditTimeUTC>2016-02-22 23:34:26.0</EditTimeUTC>
+		<EMail />
+		<Fax />
+		<ImprintURL />
+		<ImprintURLName />
+		<IsActiv>Y</IsActiv>
+		<Latitude />
+		<Location />
+		<LogoData />
+		<LogoFilename />
+		<Longitude />
+		<MaxPasswordLength />
+		<MaxWrongPasswordAttempts />
+		<Memo />
+		<MinPasswordChangeIntervalHours />
+		<MinPasswordLength />
+		<MustUseCapitalFlag>N</MustUseCapitalFlag>
+		<MustUseDigitFlag>N</MustUseDigitFlag>
+		<PasswordDurationDays />
+		<PasswordHistoryLength />
+		<Province />
+		<sdl_objid>184125178</sdl_objid>
+		<Street>1</Street>
+		<Tel>1</Tel>
+		<tzo_objid>1000040050</tzo_objid>
+		<UID />
+		<URL />
+		<URLName />
+		<UserMayResetPassword>Y</UserMayResetPassword>
+		<Zip>1</Zip>
+	</BPartnersSPR>
+	<CallOpenTimeStr>2018-06-12 14:31:36</CallOpenTimeStr>
+	<CallResponseTimeStr />
+	<CallCloseTimeStr />
+	<CallStartSLATimeStr>2018-06-12 14:31:36</CallStartSLATimeStr>
+	<CallRecoveryTimeStr />
+	<CustomerRequestedStartTimeStr />
+	<CustomerRequestedEndTimeStr>2018-06-12 05:24:00</CustomerRequestedEndTimeStr>
+	<ProviderScheduledStartTimeStr />
+	<ProviderScheduledEndTimeStr />
+	<CallReceiveTimeStr>2018-06-12 14:31:36</CallReceiveTimeStr>
+	<CallSendTimeStr />
+	<ProblemStartTimeStr />
+	<CallStateChangeTimeStr>2018-06-12 14:31:36</CallStateChangeTimeStr>
+	<EndOfResponseTimeStr />
+	<EndOfRecoveryTimeStr />
+	<CallAcknowledgeTimeStr />
+	<EditTimeStr>2018-06-12 14:36:09</EditTimeStr>
+	<ContractElementsValidFromStr />
+	<ContractElementsValidUntilStr />
+	<ContractsValidFromStr />
+	<ContractsValidUntilStr />
+	<DevInstallationDateStr />
+	<NowTimeStr>2018-07-24 09:55:15</NowTimeStr>
+	<EndOfCstRetentionTimeStr />
+	<EndOfPstRetentionTimeStr />
+	<CallCstRetentionTimeStr>2018-06-12 14:36:59</CallCstRetentionTimeStr>
+	<CallPstRetentionTimeStr>2018-06-12 14:36:59</CallPstRetentionTimeStr>
+	<InMessageReceivedTimeStr>2018-06-12 14:36:09</InMessageReceivedTimeStr>
+	<OutMessageQueuedTimeStr>2018-06-12 14:36:09</OutMessageQueuedTimeStr>
+	<OutMessageSentTimeStr>2018-06-12 14:36:09</OutMessageSentTimeStr>
+	<HexID>14F816FF</HexID>
+	<SystemName>us3-sta</SystemName>
+	<NoOfAttachments>0</NoOfAttachments>
+	<CallHistory NR="1">
+		<cst_objid>351033718</cst_objid>
+		<pst_objid>351045682</pst_objid>
+		<CallStateChangeTimeStr>2018-06-12 14:31:36</CallStateChangeTimeStr>
+		<EditTimeStr>2018-06-12 14:36:08</EditTimeStr>
+		<CallStatesCUS>
+			<ShortName>1</ShortName>
+			<Name>New</Name>
+		</CallStatesCUS>
+		<CallStatesSPR>
+			<ShortName>100</ShortName>
+			<Name>New</Name>
+		</CallStatesSPR>
+		<Remarks>test
+
+</Remarks>
+		<AddRemarksToSummary>N</AddRemarksToSummary>
+		<BPPersonsEDI>
+			<FirstName>Customer_to_Provider</FirstName>
+			<LastName>inc</LastName>
+		</BPPersonsEDI>
+		<BPRoles>
+			<ShortName>SP</ShortName>
+			<Name>Service Provider</Name>
+		</BPRoles>
+		<CustCallID>TESTCUSTINC01</CustCallID>
+	</CallHistory>
+	<CallHistory NR="2">
+		<cst_objid>351033718</cst_objid>
+		<pst_objid>351045682</pst_objid>
+		<CallStateChangeTimeStr>2018-06-12 14:31:36</CallStateChangeTimeStr>
+		<EditTimeStr>2018-06-12 14:31:39</EditTimeStr>
+		<CallStatesCUS>
+			<ShortName>1</ShortName>
+			<Name>New</Name>
+		</CallStatesCUS>
+		<CallStatesSPR>
+			<ShortName>100</ShortName>
+			<Name>New</Name>
+		</CallStatesSPR>
+		<Remarks>Application Acknowledgement: Success</Remarks>
+		<AddRemarksToSummary>N</AddRemarksToSummary>
+		<BPPersonsEDI>
+			<FirstName>Inbound</FirstName>
+			<LastName>Converter</LastName>
+		</BPPersonsEDI>
+		<BPRoles>
+			<ShortName>SC</ShortName>
+			<Name>Service Customer</Name>
+		</BPRoles>
+		<CustCallID>TESTCUSTINC01</CustCallID>
+	</CallHistory>
+	<CallHistory NR="3">
+		<cst_objid>351033718</cst_objid>
+		<pst_objid>351045682</pst_objid>
+		<CallStateChangeTimeStr>2018-06-12 14:31:36</CallStateChangeTimeStr>
+		<EditTimeStr>2018-06-12 14:31:36</EditTimeStr>
+		<CallStatesCUS>
+			<ShortName>1</ShortName>
+			<Name>New</Name>
+		</CallStatesCUS>
+		<CallStatesSPR>
+			<ShortName>100</ShortName>
+			<Name>New</Name>
+		</CallStatesSPR>
+		<Remarks>test
+
+</Remarks>
+		<AddRemarksToSummary>Y</AddRemarksToSummary>
+		<BPPersonsEDI>
+			<FirstName>Customer_to_Provider</FirstName>
+			<LastName>inc</LastName>
+		</BPPersonsEDI>
+		<BPRoles>
+			<ShortName>SP</ShortName>
+			<Name>Service Provider</Name>
+		</BPRoles>
+	</CallHistory>
+</SD.call>
